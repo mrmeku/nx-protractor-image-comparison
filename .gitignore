@@ -35,6 +35,7 @@ testem.log
 
 # e2e
 /e2e/*.js
+**/current-screenshots/
 /e2e/*.map
 
 # System Files
